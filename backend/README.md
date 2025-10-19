@@ -17,13 +17,13 @@ It provides a simple and secure note management system with **Stytch authenticat
 ---
 
 ## 🗂️ Project Structure
-backend/
-├── main.py # Core FastMCP server and routes
-├── database.py # Database models and repository
-├── .env # Environment variables (Stytch credentials, etc.)
-├── .gitignore
-├── requirements.txt # Backend dependencies
-└── README.md
+backend/<br>
+├── main.py # Core FastMCP server and routes<br>
+├── database.py # Database models and repository<br>
+├── .env # Environment variables (Stytch credentials, etc.)<br>
+├── .gitignore<br>
+├── requirements.txt # Backend dependencies<br>
+└── README.md<br>
 
 ---
 
